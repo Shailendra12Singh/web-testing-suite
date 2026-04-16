@@ -89,7 +89,7 @@ web-testing-suite/
 │── requirements.txt
 │── README.md
 │── .gitignore
-
+```
 ## Installation & Setup
 
 Follow these steps to set up the project environment:
@@ -106,3 +106,10 @@ Follow these steps to set up the project environment:
 3. Running the Test Suite:
    ```bash
    python -m pytest -v -s tests --html=reports/report.html --self-contained-html
+
+---
+
+##  About the Developer
+
+Hi, I'm Shailendra   
+I built this project as part of my learning / practice.
