@@ -96,7 +96,7 @@ Follow these steps to set up the project environment:
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-github-repo-link>
+   git clone (https://github.com/Shailendra12Singh/web-testing-suite)
    cd web-testing-suite
 
 2. Install all required libraries using the requirements.txt file:
